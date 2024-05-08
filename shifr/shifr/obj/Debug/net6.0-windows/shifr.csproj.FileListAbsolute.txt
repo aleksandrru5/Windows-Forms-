@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\bin\Debug\net6.0-windows\shifr.exe
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\bin\Debug\net6.0-windows\shifr.deps.json
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\bin\Debug\net6.0-windows\shifr.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\bin\Debug\net6.0-windows\shifr.dll
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\bin\Debug\net6.0-windows\shifr.pdb
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.Form1.resources
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.dll
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\refint\shifr.dll
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.pdb
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\shifr.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\саша\C#\shifr\shifr\obj\Debug\net6.0-windows\ref\shifr.dll

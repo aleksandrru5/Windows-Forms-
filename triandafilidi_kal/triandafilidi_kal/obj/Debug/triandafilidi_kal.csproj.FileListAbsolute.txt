@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\bin\Debug\triandafilidi_kal.exe.config
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\bin\Debug\triandafilidi_kal.exe
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\bin\Debug\triandafilidi_kal.pdb
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.LWP02Main.resources
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.exe
+C:\Users\Дмитрий\Desktop\саша\C#\triandafilidi_kal\triandafilidi_kal\obj\Debug\triandafilidi_kal.pdb
